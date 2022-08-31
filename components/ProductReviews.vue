@@ -1,5 +1,5 @@
 <script setup>
-import groupBy from "lodash/groupBy";
+import groupBy from "lodash/groupBy.js";
 
 const props = defineProps({
   productId: {
